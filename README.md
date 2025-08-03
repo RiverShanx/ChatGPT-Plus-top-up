@@ -130,6 +130,8 @@ Plus用户可使用自定义GPT功能，自由创建语气风格、能力聚焦�
 
 选择合适的代充服务，不仅节省开支，还能稳定获取GPT-4系列模型的全部功能，是个人用户和企业用户高频使用ChatGPT的不二之选。
 
+> 本文首发于 [项目优选 xmpick.com](https://www.xmpick.com/chatgpt-plus-zhinan/)
+
 ### 猜你想看
 [ChatGPT下载指南](https://www.xmpick.com/chatgpt/):将为你详细介绍 ChatGPT的下载方式、注册流程、国内访问使用方法，ChatGPT Plus会员开通方法解锁全部功能。
 [Grok4会员升级]（https://www.xmpick.com/grok4-upgrade-guide/）：为你全面讲解 Grok4会员升级方式，包含目前最可行的 代充渠道、注意事项和升级流程，帮你一步到位开通 Grok4会员。
