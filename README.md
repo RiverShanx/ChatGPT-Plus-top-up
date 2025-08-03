@@ -32,15 +32,15 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 星际放映厅现推出ChatGPT Plus官方代充服务，支持现有账号直接升级，原始对话记录与设置完整保留。使用专属优惠码“xmpick”，立享89折优惠，原价￥230/月，折后仅￥213/月，性价比高、处理迅速，通常1小时内完成升级。
 
-第一步：访问[星际放映厅官网](https://www.naifeistation.com/i/Satqr)，点击右上角头像，使用手机号快速注册。
+#### 第一步：访问[星际放映厅官网](https://www.naifeistation.com/i/Satqr)，点击右上角头像，使用手机号快速注册。
 
 ![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/76bdf893ae4990c-scaled.jpg?raw=true)
 
-第二步，在星际放映厅首页页面中，在AI工具箱页面，找到ChatGPT Plus代充产品，点击进入，如箭头所示。
+#### 第二步，在星际放映厅首页页面中，在AI工具箱页面，找到ChatGPT Plus代充产品，点击进入，如箭头所示。
 
 ![image](https://www.xmpick.com/wp-content/uploads/2025/06/02036e29145c840-scaled.jpg?raw=true)
 
-第三步，输入优惠码“XMPICK”，并点击支付订单！
+#### 第三步，输入优惠码“XMPICK”，并点击支付订单！
 
 星际放映厅现提供ChatGPT Plus官方代充服务，支持1个月和3个月两种套餐，官方账号升级，保留原有聊天记录、自定义设置不变。用户在购买时输入优惠码「XMPICK」，可享89折优惠，1个月仅需213元（原价230元），3个月仅613元（原价660元），可选择支付宝支付，全程正规、安全无忧。
 
@@ -60,15 +60,15 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 银河录像局现提供ChatGPT Plus账号密码代充服务，支持1个月与1年时长套餐，但不支持谷歌、微软或苹果一键登录账号。用户在购买时输入优惠码 “XMPICK”，可享95折限时优惠，1个月原价￥190，折后仅￥180.5，性价比高，支付成功后自动充值，通常5分钟内完成升级，全程支持售后保障与客服指导。
 
-第一步：访问[银河录像局官网](https://nf.video/24MAX)，使用手机号或微信扫码快速注册。
+#### 第一步：访问[银河录像局官网](https://nf.video/24MAX)，使用手机号或微信扫码快速注册。
 
 ![image](https://www.xmpick.com/wp-content/uploads/2023/08/4adc91b1fe2c394.jpg?raw=true)
 
-第二步：在银河录像局首页，找到“代充”栏，看到ChatGPT Plus代充产品位置，如箭头所示，点击进入！
+#### 第二步：在银河录像局首页，找到“代充”栏，看到ChatGPT Plus代充产品位置，如箭头所示，点击进入！
 
 ![image](https://www.xmpick.com/wp-content/uploads/2025/08/f13ba7c05a3db23.jpg?raw=true)
 
-第三步：选择相应套餐，输入优惠码“XMPICK”，点击立即支付。
+#### 第三步：选择相应套餐，输入优惠码“XMPICK”，点击立即支付。
 
 ![image](https://www.xmpick.com/wp-content/uploads/2025/08/f1828b917a47b07.png?raw=true)
 
@@ -88,11 +88,11 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 环球巴士提供专业的ChatGPT Plus充值服务，支持自助充值和人工代充两种方式，满足不同用户需求。自助充值价格为每月198.88元，操作简单快捷，用户可根据平台提供的教程在几分钟内完成充值。人工充值则适用于需代操作用户，提供自己的OpenAI 账号密码即可完成，一月套餐为手动充值，季度套餐为558.88 元，采用分三次充值或充值至三个账号的形式，非一次性到账。
 
-第一步：访问[环球巴士官网](https://universalbus.cn/?s=voyFIfa3lt)，点击右上角头像，使用手机号快速注册。
+#### 第一步：访问[环球巴士官网](https://universalbus.cn/?s=voyFIfa3lt)，点击右上角头像，使用手机号快速注册。
 
 ![image](https://www.xmpick.com/wp-content/uploads/2025/03/de2a2f85fedaebf.png?raw=true)
 
-第二步：然后返回到首页，找到AIGC栏，如箭头所示，找到ChaGPT Plus充值，点击购票上车。
+#### 第二步：然后返回到首页，找到AIGC栏，如箭头所示，找到ChaGPT Plus充值，点击购票上车。
 
 ![image](https://www.xmpick.com/wp-content/uploads/2025/08/14e433782d6d317-scaled.png?raw=true)
 
