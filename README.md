@@ -66,7 +66,7 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 #### 第二步：在银河录像局首页，找到“代充”栏，看到ChatGPT Plus代充产品位置，如箭头所示，点击进入！
 
-![image](https://www.xmpick.com/wp-content/uploads/2025/08/f13ba7c05a3db23.jpg?raw=true)
+![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/%E9%93%B6%E6%B2%B3.jpg?raw=true)
 
 #### 第三步：选择相应套餐，输入优惠码“XMPICK”，点击立即支付。
 
