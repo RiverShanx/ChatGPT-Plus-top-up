@@ -38,13 +38,13 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 #### 第二步，在星际放映厅首页页面中，在AI工具箱页面，找到ChatGPT Plus代充产品，点击进入，如箭头所示。
 
-![image](https://www.xmpick.com/wp-content/uploads/2025/06/02036e29145c840-scaled.jpg?raw=true)
+![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/02036e29145c840-scaled.jpg?raw=true)
 
 #### 第三步，输入优惠码“XMPICK”，并点击支付订单！
 
 星际放映厅现提供ChatGPT Plus官方代充服务，支持1个月和3个月两种套餐，官方账号升级，保留原有聊天记录、自定义设置不变。用户在购买时输入优惠码「XMPICK」，可享89折优惠，1个月仅需213元（原价230元），3个月仅613元（原价660元），可选择支付宝支付，全程正规、安全无忧。
 
-![image](https://www.xmpick.com/wp-content/uploads/2025/06/a895ecab570fa8e.png?raw=true)
+![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/a895ecab570fa8e.png?raw=true)
 
 下单后通常1小时内完成充值，最快30分钟，最长不超过24小时。可开具发票，支持企业采购与批量代充。完成后会通过短信方式通知激活，您只需登录原有OpenAI账号，即可畅享GPT-4o及全部Plus高级功能
 
@@ -70,7 +70,7 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 #### 第三步：选择相应套餐，输入优惠码“XMPICK”，点击立即支付。
 
-![image](https://www.xmpick.com/wp-content/uploads/2025/08/f1828b917a47b07.png?raw=true)
+![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/f1828b917a47b07.png?raw=true)
 
 银河录像局已上线ChatGPT Plus自动化代充系统，用户无需提供账号密码，仅需复制指定代码粘贴至充值界面，即可自动完成充值操作。目前服务已累计超过2000+笔成功订单，大幅提升充值效率与账号安全性，支持支付宝支付。
 
@@ -90,7 +90,7 @@ ChatGPT Plus和ChatGPT Pro是 OpenAI 推出的两种高级订阅服务，提供�
 
 #### 第一步：访问[环球巴士官网](https://universalbus.cn/?s=voyFIfa3lt)，点击右上角头像，使用手机号快速注册。
 
-![image](https://www.xmpick.com/wp-content/uploads/2025/03/de2a2f85fedaebf.png?raw=true)
+![image](https://github.com/RiverShanx/ChatGPT-Plus-top-up/blob/main/image/de2a2f85fedaebf.png?raw=true)
 
 #### 第二步：然后返回到首页，找到AIGC栏，如箭头所示，找到ChaGPT Plus充值，点击购票上车。
 
